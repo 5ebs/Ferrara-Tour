@@ -1,2 +1,1 @@
-# Ferrara-Tours
 # Ferrara-Tour
